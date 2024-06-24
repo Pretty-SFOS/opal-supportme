@@ -6,7 +6,7 @@
 
 import QtQuick 2.0
 import Sailfish.Silica 1.0 as S
-import Opal.SupportMe 1.0 as A
+import Opal.SupportMe 1.0 as M
 
 M.SupportDialog {
     M.SupportAction {
