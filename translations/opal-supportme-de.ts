@@ -23,35 +23,7 @@
     </message>
 </context>
 <context>
-    <name>Opal.LinkHandler</name>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
-        <source>External Link</source>
-        <translation>Externer Link</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
-        <source>Open in browser</source>
-        <translation>Im Browser öffnen</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
-        <source>Open externally</source>
-        <translation>Extern öffnen</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
-        <source>Copied to clipboard: %1</source>
-        <translation>In die Zwischenablage kopiert: %1</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
-        <source>Copy to clipboard</source>
-        <translation>In die Zwischenablage kopieren</translation>
-    </message>
-</context>
-<context>
-    <name>Opal.SupportMe.Common</name>
+    <name>MySupportDialog</name>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="12"/>
         <source>Donate on Liberapay</source>
@@ -111,6 +83,34 @@
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="40"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>Wenn du es dir leisten kannst, ist eine Spende der einfachste Weg, um dazu beizutragen, dass ich auch in Zukunft an Apps für Sailfish arbeiten kann. Jeder Betrag ist ein Beitrag - sei es eine Tasse Kaffee, ein Stück Pizza oder mehr.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
+        <source>External Link</source>
+        <translation>Externer Link</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
+        <source>Open in browser</source>
+        <translation>Im Browser öffnen</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
+        <source>Open externally</source>
+        <translation>Extern öffnen</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
+        <source>Copied to clipboard: %1</source>
+        <translation>In die Zwischenablage kopiert: %1</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
+        <source>Copy to clipboard</source>
+        <translation>In die Zwischenablage kopieren</translation>
     </message>
 </context>
 <context>

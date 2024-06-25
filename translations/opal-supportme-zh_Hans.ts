@@ -23,35 +23,7 @@
     </message>
 </context>
 <context>
-    <name>Opal.LinkHandler</name>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
-        <source>External Link</source>
-        <translation>外部链接</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
-        <source>Open in browser</source>
-        <translation>用浏览器打开</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
-        <source>Open externally</source>
-        <translation>用外部应用打开</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
-        <source>Copied to clipboard: %1</source>
-        <translation>复制到剪贴板：%1</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
-        <source>Copy to clipboard</source>
-        <translation>复制到剪切板</translation>
-    </message>
-</context>
-<context>
-    <name>Opal.SupportMe.Common</name>
+    <name>MySupportDialog</name>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="12"/>
         <source>Donate on Liberapay</source>
@@ -111,6 +83,34 @@
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="40"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
+        <source>External Link</source>
+        <translation>外部链接</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
+        <source>Open in browser</source>
+        <translation>用浏览器打开</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
+        <source>Open externally</source>
+        <translation>用外部应用打开</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
+        <source>Copied to clipboard: %1</source>
+        <translation>复制到剪贴板：%1</translation>
+    </message>
+    <message>
+        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
+        <source>Copy to clipboard</source>
+        <translation>复制到剪切板</translation>
     </message>
 </context>
 <context>
