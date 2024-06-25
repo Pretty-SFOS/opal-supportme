@@ -5,6 +5,10 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 # Changelog
 
+## 1.1.0 (2024-06-25)
+
+- Updated and initialized all translations based on other Opal modules
+
 ## 1.0.1 (2024-06-25)
 
 - Fixed saving "don't ask again" state
