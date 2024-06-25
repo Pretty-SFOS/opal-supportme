@@ -209,7 +209,7 @@ Item {
 
         if (!!dialog) {
             dialog.done.connect(function(){ _markAsSeen() })
-            dialog._dontAskAgain.connect(function(){ _dontAskAgain() })
+            dialog.dontAskAgain.connect(function(){ _dontAskAgain() })
         }
     }
 
