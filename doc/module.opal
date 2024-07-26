@@ -7,7 +7,7 @@
 # SPDX-FileCopyrightText: 2021-2024 Mirian Margiani
 # SPDX-License-Identifier: CC0-1.0
 #
-# @@@ keep this line: based on template v0.1.0
+# @@@ keep this line: based on template v1.0.0
 #
 
 # current semantic version number, cf. https://semver.org
@@ -21,6 +21,11 @@ name: supportme
 # where necessary
 nameStyled: SupportMe
 
+# very short description of this module: must be plain text without formatting
+# and should be as short as possible. This text may be used as the description
+# of a Git repository, and is used in documentation.
+briefDescription: QML module for inviting contributions in Sailfish apps
+
 # description of this module: may use rich text and will be translated in
 # Opal Gallery. Line breaks can included with '\n' but should be avoided.
 description: A dialog asking for contributions that is shown when a user has used your app for some time.
@@ -30,11 +35,11 @@ description: A dialog asking for contributions that is shown when a user has use
 attribution: 2024 Mirian Margiani
 
 # colon-separated list of this module's current maintainer(s)
-maintainers: ichthyosaurus
+maintainers: Mirian Margiani
 
 # colon-separated list of this module's author(s) and contributors
 # this list should be exhaustive
-authors: ichthyosaurus
+authors: Mirian Margiani
 
 # the module's SPDX license id, cf. https://spdx.org/licenses/
 mainLicenseSpdx: GPL-3.0-or-later
@@ -43,12 +48,11 @@ mainLicenseSpdx: GPL-3.0-or-later
 # Additional pages must be placed in a directory called "doc/gallery" and listed
 # in "extraGalleryPages". Set to "none" if only the main QML file is used.
 # The field contains a space separated list of file names without path. Names
-# must not contain spaces. The main example file will be renamed <nameStyled>.qml
-# and placed in a directory together with all extra pages of this module.
+# must not contain spaces. Use "import 'gallery'" to use these extra components.
 # Use "EmptyDummyPage.qml" as placeholder in examples (provided by Opal Gallery).
 #
 # Example:
-# extraGalleryPages: page1.qml page2.qml
+# extraGalleryPages: Page1.qml Page2.qml MyComponent.qml
 extraGalleryPages: none
 
 # where the module's sources are located
