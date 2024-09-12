@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<TS version="2.1" language="sr">
 <context>
     <name>AskForSupport</name>
     <message>
         <location filename="../Opal/SupportMe/AskForSupport.qml" line="160"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Пожалуйста, подумайте, можете ли вы участвовать в проекте каким-либо образом.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14,12 +14,12 @@
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="208"/>
         <source>show less</source>
-        <translation>показать меньше</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show more</source>
-        <translation>показать больше</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -47,17 +47,17 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
         <source>Develop on Github</source>
-        <translation>Разрабатывать на Github</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Поддержка в разработке и упаковке, написании кодов, или важные замечания об ошибках.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="24"/>
         <source>Why should you care?</source>
-        <translation>Почему вас это должно волновать?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="25"/>
@@ -90,27 +90,27 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation>Внешняя ссылка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation>Открыть в браузере</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation>Открыть снаружи</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Скопировано в буфер обмена: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation>Скопировать в буфер обмена</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
