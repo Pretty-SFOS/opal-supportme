@@ -6,7 +6,7 @@
     <message>
         <location filename="../Opal/SupportMe/AskForSupport.qml" line="160"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, подумайте, как вы можете помочь этому проекту чем бы то ни было.</translation>
     </message>
 </context>
 <context>
@@ -14,12 +14,12 @@
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="208"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>показать меньше</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>показать больше</translation>
     </message>
 </context>
 <context>
