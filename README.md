@@ -8,10 +8,6 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 A dialog asking for support that is shown when a user has used your Sailfish
 app for some time.
 
-## Screenshots
-
-Screenshots can be found in the [doc](doc/) directory.
-
 ## Example code
 
 The module provides a simple API to define your own content. You can get started
@@ -99,6 +95,12 @@ SupportDialog {
 ```
 
 Extensive documentation is available through QtCreator (Sailfish SDK).
+
+## Screenshots
+
+| 1. | 2. | 3. |
+|-|-|-|
+| <img src="./doc/screenshot-01.webp" width="600" /> | <img src="./doc/screenshot-02.webp" width="600" /> | <img src="./doc/screenshot-03.webp" width="600" /> |
 
 ## How to use
 
