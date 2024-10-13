@@ -5,6 +5,10 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 # Changelog
 
+## 1.2.1 (2024-10-13)
+
+- Removed duplicate Romanian translation
+
 ## 1.2.0 (2024-10-11)
 
 - Updated translations: Serbian, Russian, Moldavian, Chinese, Estonian, Hungarian, Indonesian, Italian, Norwegian, Dutch, Polish, Slovak, Romanian, and more
@@ -25,4 +29,4 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 ## 1.0.0 (2024-06-24)
 
-- initial release
+- Initial release
