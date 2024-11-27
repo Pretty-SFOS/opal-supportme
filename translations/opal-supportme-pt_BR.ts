@@ -37,12 +37,12 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="16"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduza no Weblate</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="17"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajude a traduzir este app na maior quantidade possível de idiomas.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="40"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se tiver condições, doar é a forma mais fácil de garantir que eu possa continuar trabalhando em apps para o Sailfish. Qualquer quantia é apreciada, seja um copo de café, uma fatia de pizza ou mais.</translation>
     </message>
 </context>
 <context>
@@ -90,27 +90,27 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link Externo</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir no navegador</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir externamente</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado para a área de transferência: %1</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar para a área de transferência</translation>
     </message>
 </context>
 <context>
@@ -118,27 +118,27 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Olá!</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrigado por usar meu pequeno app! Talvez você poderia contribuir de volta?</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrigado pelo seu apoio!</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="152"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Me lembre mais tarde</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="157"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não pergunte novamente</translation>
     </message>
 </context>
 </TS>
