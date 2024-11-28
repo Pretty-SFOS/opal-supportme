@@ -5,6 +5,11 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 # Changelog
 
+## 1.2.5 (2024-11-28)
+
+- Added translations: Dutch (Belgium), Norwegian Nynorsk
+- Updated translations: Portuguese
+
 ## 1.2.4 (2024-11-27)
 
 - Added translations: Portuguese, Portuguese (Brazil), Tamil
