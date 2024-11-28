@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.1" language="nn">
 <context>
     <name>AskForSupport</name>
     <message>
@@ -90,17 +90,17 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation>Link Externo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation>Abrir no navegador</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation>Abrir externamente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
