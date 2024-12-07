@@ -6,7 +6,7 @@
     <message>
         <location filename="../Opal/SupportMe/AskForSupport.qml" line="160"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Harkitse voisitko tukea tätä projektia jollain tavalla.</translation>
+        <translation>Harkitse, voisitko tukea tätä projektia jollain tavalla.</translation>
     </message>
 </context>
 <context>
@@ -47,12 +47,12 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
         <source>Develop on Github</source>
-        <translation>Kehitä Github:ssa</translation>
+        <translation>Kehitä GitHubissa</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Tue kehitystä, kokoamista, koodin kirjoittamista tai jaa arvokkaita bugiraportteja.</translation>
+        <translation>Tue ylläpidossa ja paketoinnissa, kirjoita koodia tai jaa arvokkaita vikaraportteja.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="24"/>
@@ -62,12 +62,12 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="25"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Tämä projekti on yhden henkilön tekemä rakkaudella ja intohimolla hänen vapaa-ajallaan ja se on jaettu teille ilmaiseksi.</translation>
+        <translation>Tämä on yhden kehittäjän vapaa-ajallaan rakkaudella ja intohimolla rakentama projekti ja se on tarjotaan sinulle ilmaiseksi.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="29"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Kehitän ilmaisia ohjelmistoja, koska koen, että se on eettisin tapa toimia - se on myös hauska harrastus. Kuitenkin ohjelmistojen kehittäminen vie paljon aikaa ja vaivaa. Sailfish:nä ja elämänkin maksaessa rahaa, tarvitsen teidän tukeanne, jotta voin jatkaa palkatta tällaisia projekteja.</translation>
+        <translation>Kehitän ilmaisia ohjelmistoja, koska uskon sen olevan eettinen tapa toimia - se on myös hauska harrastus. Ohjelmistojen kehittäminen vaatii kuitenkin paljon aikaa ja vaivaa. Koska Sailfish ja elämä yleensäkin maksavat rahaa, tarvitsen tukeasi, jotta voin jatkaa palkatta tällaisia projekteja.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="36"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="40"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Jos sinulla on mahdollisuus, lahjoittaminen on helpoin tapa varmistaa, että voin jatkaa ohjelmien kehittämistä Sailfish:llä. Mikä vaan summa on arvostettu, oli se sitten kuppi kahvia, pala pizzaa tai enemmän.</translation>
+        <translation>Jos sinulla on mahdollisuus lahjoittaa, se on helpoin tapa varmistaa, että voin jatkaa sovellusten kehittämistä Sailfishille. Mikä tahansa summa on tervetullut, oli se sitten kupillinen kahvia, pala pizzaa tai enemmän.</translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation>Kopioi leiikepöydälle</translation>
+        <translation>Kopioi leikepöydälle</translation>
     </message>
 </context>
 <context>
