@@ -67,22 +67,22 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="29"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezvolt Software Liber pentru că sunt convins că este lucrul etic de făcut - și este un hobby distractiv. Cu toate acestea, dezvoltarea software-ului necesită mult timp și efort. Deoarece Sailfish și viața în general costă bani, am nevoie de sprijinul tău pentru a putea petrece timp în proiecte neplătitoare ca acesta.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="36"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>De ce sa donezi?</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="37"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla a crescut prețurile și încearcă să forțeze dezvoltatorii (care lucrează gratuit) să plătească chirie pentru Sailfish.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="40"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă vă puteți permite, donarea este cea mai simplă modalitate de a vă asigura că pot continua să lucrez la aplicații pentru Sailfish. Orice cantitate este apreciată, fie că este o ceașcă de cafea, o felie de pizza sau mai mult.</translation>
     </message>
 </context>
 <context>
@@ -90,27 +90,27 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link extern</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide în browser</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide in mod extern</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiat în clipboard:%1</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiaza in clipboard</translation>
     </message>
 </context>
 <context>
@@ -118,27 +118,27 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Salut!</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă mulțumesc că ați folosit micuța mea aplicație! Poate poți contribui înapoi?</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="62"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă mulțumim pentru susținere!</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="152"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Amintește-mi mai târziu</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="157"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu ma intreba din nou</translation>
     </message>
 </context>
 </TS>
