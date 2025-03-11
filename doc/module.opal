@@ -11,7 +11,7 @@
 #
 
 # current semantic version number, cf. https://semver.org
-version: 1.2.5
+version: 1.2.6
 
 # plain name as used in the module repository URL, will be prefixed with "opal-"
 # where necessary
