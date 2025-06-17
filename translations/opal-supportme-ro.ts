@@ -4,7 +4,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../Opal/SupportMe/AskForSupport.qml" line="160"/>
+        <location filename="../Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>Gindeste putin daca poti contribui la acest proiect intr-un fel sau altul.</translation>
     </message>
@@ -12,12 +12,12 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="208"/>
+        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
         <translation>arata mai putin</translation>
     </message>
     <message>
-        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
+        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
         <translation>arata mai mult</translation>
     </message>
@@ -131,12 +131,12 @@
         <translation>Vă mulțumim pentru susținere!</translation>
     </message>
     <message>
-        <location filename="../Opal/SupportMe/SupportDialog.qml" line="152"/>
+        <location filename="../Opal/SupportMe/SupportDialog.qml" line="148"/>
         <source>Remind me later</source>
         <translation>Amintește-mi mai târziu</translation>
     </message>
     <message>
-        <location filename="../Opal/SupportMe/SupportDialog.qml" line="157"/>
+        <location filename="../Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
         <translation>Nu ma intreba din nou</translation>
     </message>

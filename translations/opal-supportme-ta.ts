@@ -4,7 +4,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../Opal/SupportMe/AskForSupport.qml" line="160"/>
+        <location filename="../Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>இந்த திட்டத்திற்கு நீங்கள் ஒரு வழியில் அல்லது வேறு வழியில் பங்களிக்க முடியுமா என்பதைக் கருத்தில் கொள்ள சிறிது நேரம் ஒதுக்குங்கள்.</translation>
     </message>
@@ -12,12 +12,12 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="208"/>
+        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
         <translation>குறைவாகக் காட்டு</translation>
     </message>
     <message>
-        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
+        <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
         <translation>மேலும் காட்டு</translation>
     </message>
@@ -131,12 +131,12 @@
         <translation>உங்கள் ஆதரவுக்கு நன்றி!</translation>
     </message>
     <message>
-        <location filename="../Opal/SupportMe/SupportDialog.qml" line="152"/>
+        <location filename="../Opal/SupportMe/SupportDialog.qml" line="148"/>
         <source>Remind me later</source>
         <translation>பின்னர் எனக்கு நினைவூட்டுங்கள்</translation>
     </message>
     <message>
-        <location filename="../Opal/SupportMe/SupportDialog.qml" line="157"/>
+        <location filename="../Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
         <translation>மீண்டும் என்னிடம் கேட்க வேண்டாம்</translation>
     </message>
