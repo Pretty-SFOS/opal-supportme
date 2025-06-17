@@ -5,6 +5,18 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 # Changelog
 
+## 1.3.0 (2025-06-17)
+
+- Added translation: Arabic
+- Added support for multiple popups
+    - set `customConfigPath` to a distinct value for each dialog, e.g. `/apps/harbour-<my app>/<popup name>`
+    - set `objectName` to a unique name to distinguish log output
+- Added support for completely disabling a popup by setting the `enabled` property to `false`
+- Added an option to show the popup when the app is started for the first time (`showOnInitialStart`)
+- Added support for fully custom dialogs without greeting / hook / goodbye texts
+- Fixed horizontal padding of details drawer titles
+- Clarified default values in the documentation
+
 ## 1.2.8 (2025-06-11)
 
 - Updated translations: Ukrainian
