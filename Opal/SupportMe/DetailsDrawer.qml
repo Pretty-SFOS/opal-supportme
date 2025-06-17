@@ -165,6 +165,7 @@ BackgroundItem {
 
             SectionHeader {
                 id: titleField
+                x: 0
 
                 Binding on height {
                     when: titleField.text === ""
