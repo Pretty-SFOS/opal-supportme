@@ -140,7 +140,7 @@ Item {
       app has been started. If the counter reaches the
       interval, the popup is shown and the counter resets.
 
-      Default: every 15th start
+      \defaultValue 15 (every 15th start)
     */
     property int interval: 15
 
@@ -158,7 +158,7 @@ Item {
       is not a nuisance but rather a helpful reminder
       for users that don't want to be bugged with requests.
 
-      Default: every 150th start
+      \defaultValue 150 (every 150th start)
     */
     property int longInterval: 150
 
