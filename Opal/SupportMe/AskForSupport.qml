@@ -123,6 +123,17 @@ Item {
     property bool enabled: true
 
     /*!
+      This property defines whether to show the popup on first start.
+
+      Usually, the popup is only shown after the user has started the
+      app a few times. Remember that this popup is intended to be
+      respectful of the user and to be as little annoying as possible.
+
+      \defaultValue false
+    */
+    property bool showOnInitialStart: false
+
+    /*!
       This property defines when the request is shown.
 
       An internal counter keeps track of how many times the
@@ -216,7 +227,7 @@ Item {
     readonly property int __lastAskedAt: !!configLoader.item ?
         configLoader.item.lastAskedAt : -1
     readonly property int __startCount: !!configLoader.item ?
-        configLoader.item.startCount : -1
+        configLoader.item.startCount : (showOnInitialStart ? interval : -1)
     readonly property string __configPath: "/settings/opal/opal-supportme/" +
         "support-overlay/%1/%2".arg(_organizationName).arg(_applicationName)
     readonly property string __effectiveConfigPath: customConfigPath || __configPath
