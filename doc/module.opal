@@ -32,7 +32,7 @@ description: A dialog asking for contributions that is shown when a user has use
 
 # attribution string for the whole module, in the same form as a SPDX
 # FileCopyrightText entry.
-attribution: 2024 Mirian Margiani
+attribution: 2024-2025 Mirian Margiani
 
 # colon-separated list of this module's current maintainer(s)
 maintainers: Mirian Margiani
