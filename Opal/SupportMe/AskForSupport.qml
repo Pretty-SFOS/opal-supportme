@@ -166,6 +166,18 @@ Item {
     }
 
     /*!
+      This property holds an optional custom \c dconf path for settings.
+
+      It is usually unnecessary to use this property. However, if you
+      want to use multiple popups, you must define a custom config path
+      for each of them to give them distinct places to store their settings.
+
+      By default, settings are stored in \c dconf at:
+      \c{/settings/opal/opal-supportme/support-overlay/<organization name>/<app name>/}
+    */
+    property string customConfigPath: ""
+
+    /*!
       This private property holds the application name.
 
       The value is provided through the application profile.
@@ -197,6 +209,7 @@ Item {
         configLoader.item.startCount : -1
     readonly property string __configPath: "/settings/opal/opal-supportme/" +
         "support-overlay/%1/%2".arg(_organizationName).arg(_applicationName)
+    readonly property string __effectiveConfigPath: customConfigPath || __configPath
 
     property int __ready: (configLoader.status === Loader.Ready ? 1 : 0)
     property int __maxReady: 1
@@ -223,12 +236,13 @@ Item {
     }
 
     Component.onCompleted: {
-        if (!_applicationName || !_organizationName) {
-            console.warn("[Opal.SupportMe] both application name and organisation name " +
+        if (!customConfigPath && (!_applicationName || !_organizationName)) {
+            var prefix = !!objectName ? objectName + ": " : ""
+            console.warn("[Opal.SupportMe] %1both application name and organisation name ".arg(prefix) +
                          "must be set in order to use the support overlay")
-            console.warn("[Opal.SupportMe] note that these properties are also required " +
+            console.warn("[Opal.SupportMe] %1note that these properties are also required ".arg(prefix) +
                          "for Sailjail sandboxing")
-            console.warn("[Opal.SupportMe] see: https://github.com/sailfishos/" +
+            console.warn("[Opal.SupportMe] %1see: https://github.com/sailfishos/".arg(prefix) +
                          "sailjail-permissions#desktop-file-changes")
         }
     }
@@ -240,16 +254,17 @@ Item {
 
         if (   (__askAgain && __startCount >= __lastAskedAt + interval)
             || (!__askAgain && __startCount >= __lastAskedAt + longInterval)) {
-            console.log("[Opal.SupportMe] showing support popup now")
-            console.log("[Opal.SupportMe] starts: %1 | last asked: %2".arg(
-                            __startCount).arg(__lastAskedAt))
+            var prefix = !!objectName ? objectName + ": " : ""
+            console.log("[Opal.SupportMe] %1showing support popup now".arg(prefix))
+            console.log("[Opal.SupportMe] %3starts: %1 | last asked: %2".arg(
+                            __startCount).arg(__lastAskedAt).arg(prefix))
             showTimer.start()
         }
     }
 
     Loader {
         id: configLoader
-        sourceComponent: !!_applicationName && !!_organizationName ?
+        sourceComponent: !!__effectiveConfigPath ?
                              configComponent : null
         asynchronous: true
     }
@@ -269,7 +284,7 @@ Item {
         id: configComponent
 
         ConfigurationGroup {
-            path: root.__configPath
+            path: root.__effectiveConfigPath
             property bool askAgain: true
             property int lastAskedAt: 0
             property int startCount: 0
