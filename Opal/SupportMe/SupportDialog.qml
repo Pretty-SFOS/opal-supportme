@@ -84,11 +84,12 @@ Dialog {
         Column {
             id: column
             width: parent.width
-            spacing: Theme.paddingMedium
 
             PageHeader { /* empty on purpose */ }
 
             Label {
+                visible: !!greeting
+                topPadding: Theme.paddingMedium
                 x: Theme.horizontalPageMargin
                 width: parent.width - 2*x
                 horizontalAlignment: Text.AlignHCenter
@@ -99,12 +100,10 @@ Dialog {
                 text: greeting
             }
 
-            Item {
-                width: 1
-                height: Theme.paddingMedium
-            }
-
             Label {
+                visible: !!hook
+                topPadding: Theme.paddingMedium
+                bottomPadding: Theme.paddingMedium
                 x: Theme.horizontalPageMargin
                 width: parent.width - 2*x
                 color: palette.highlightColor
@@ -124,12 +123,9 @@ Dialog {
                 }
             }
 
-            Item {
-                width: 1
-                height: 2*Theme.paddingLarge
-            }
-
             Label {
+                visible: !!goodbye
+                topPadding: 2*Theme.paddingLarge
                 x: 4*Theme.horizontalPageMargin
                 width: parent.width - 2*x
                 horizontalAlignment: Text.AlignHCenter
