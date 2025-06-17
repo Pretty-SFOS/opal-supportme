@@ -113,6 +113,16 @@ Item {
     id: root
 
     /*!
+      This property defines whether the popup is used at all.
+
+      Set this to \c false to completely disable the popup. This
+      can be useful for managing outreach campaigns.
+
+      \defaultValue true
+    */
+    property bool enabled: true
+
+    /*!
       This property defines when the request is shown.
 
       An internal counter keeps track of how many times the
@@ -236,6 +246,8 @@ Item {
     }
 
     Component.onCompleted: {
+        if (!enabled) return
+
         if (!customConfigPath && (!_applicationName || !_organizationName)) {
             var prefix = !!objectName ? objectName + ": " : ""
             console.warn("[Opal.SupportMe] %1both application name and organisation name ".arg(prefix) +
@@ -248,7 +260,7 @@ Item {
     }
 
     on__ReadyChanged: {
-        if (__ready < __maxReady) return
+        if (!enabled || __ready < __maxReady) return
 
         configLoader.item.startCount += 1
 
@@ -264,7 +276,7 @@ Item {
 
     Loader {
         id: configLoader
-        sourceComponent: !!__effectiveConfigPath ?
+        sourceComponent: enabled && !!__effectiveConfigPath ?
                              configComponent : null
         asynchronous: true
     }
