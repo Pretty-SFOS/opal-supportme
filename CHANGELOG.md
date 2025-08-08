@@ -5,6 +5,12 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 # Changelog
 
+## 1.3.1 (2025-08-08)
+
+- Added translations: Persian
+- Updated translations: Turkish
+- Fixed formatting `SupportIcon` documentation
+
 ## 1.3.0 (2025-06-17)
 
 - Added translation: Arabic
