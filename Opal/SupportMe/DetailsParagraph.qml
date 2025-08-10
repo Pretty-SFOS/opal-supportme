@@ -5,7 +5,7 @@
 
 import QtQuick 2.0
 import Sailfish.Silica 1.0
-import "private/LinkHandler"
+import "../LinkHandler" as L
 
 /*!
     \qmltype DetailsParagraph
@@ -24,7 +24,7 @@ Label {
     color: palette.highlightColor
     wrapMode: Text.Wrap
     linkColor: Theme.secondaryColor
-    onLinkActivated: LinkHandler.openOrCopyUrl(link)
+    onLinkActivated: L.LinkHandler.openOrCopyUrl(link)
 
     /*!
       Your content.

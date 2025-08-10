@@ -5,7 +5,7 @@
 
 import QtQuick 2.0
 import Sailfish.Silica 1.0
-import "private/LinkHandler"
+import "../LinkHandler" as L
 
 /*!
     \qmltype SupportAction
@@ -95,7 +95,7 @@ BackgroundItem {
 
     onClicked: {
         if (__isLink) {
-            LinkHandler.openOrCopyUrl(link)
+            L.LinkHandler.openOrCopyUrl(link)
         }
     }
 
