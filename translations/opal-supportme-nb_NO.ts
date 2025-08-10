@@ -118,7 +118,7 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation>Hei der</translation>
+        <translation>Hei på deg</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="51"/>

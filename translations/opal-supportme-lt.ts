@@ -14,12 +14,12 @@
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti mažiau</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti daugiau</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="12"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Aukoti per Liberapay</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="13"/>
@@ -90,12 +90,12 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Išorinė nuoroda</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti naršyklėje</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nukopijuota: %1</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>

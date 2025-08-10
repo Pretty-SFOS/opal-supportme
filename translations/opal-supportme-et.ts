@@ -47,7 +47,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
         <source>Develop on Github</source>
-        <translation>Osale arenduses Githubi abil</translation>
+        <translation>Osale arenduses GitHubi abil</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>

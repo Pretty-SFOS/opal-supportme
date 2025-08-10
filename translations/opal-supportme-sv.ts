@@ -47,7 +47,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
         <source>Develop on Github</source>
-        <translation>Utveckla på Github</translation>
+        <translation>Utveckla på GitHub</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
@@ -95,7 +95,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
         <source>Open in browser</source>
-        <translation>Öppna i webbläsare</translation>
+        <translation>Öppna i webbläsaren</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>

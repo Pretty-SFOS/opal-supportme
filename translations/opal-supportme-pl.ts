@@ -6,7 +6,7 @@
     <message>
         <location filename="../Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poświęć chwilę i zastanów się, czy możesz wnieść swój wkład w ten projekt w taki czy inny sposób.</translation>
     </message>
 </context>
 <context>
@@ -14,12 +14,12 @@
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>pokaż mniej</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>pokaż więcej</translation>
     </message>
 </context>
 <context>
@@ -27,12 +27,12 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="12"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekaż darowiznę na Liberapay</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="13"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpłać równoważność filiżanki kawy, kawałka pizzy lub biletu do teatru.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="16"/>
@@ -47,17 +47,17 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozwój na Githubie</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspieraj tworzenie i serwis aplikacji, pisz kod lub dostarczaj wartościowe raporty o błędach.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="24"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dlaczego miałoby Cię to obchodzić?</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="25"/>
@@ -67,22 +67,22 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="29"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzę Wolne Oprogramowanie, ponieważ jestem przekonany, że jest to właściwa postawa etyczna - i jest to przyjemne hobby. Jednak tworzenie oprogramowania wymaga dużo czasu i wysiłku. Ponieważ Sailfish i ogólnie życie kosztuje, potrzebuję waszego wsparcia, aby móc poświęcać czas na projekty, które nie są płatne, takie jak ten.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="36"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dlaczego warto przekazać darowiznę?</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="37"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla podniosła ceny i próbuje zmusić deweloperów (którzy pracują za darmo) do płacenia abonamentu za Sailfish.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="40"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli możesz sobie na to pozwolić, darowizna jest najprostszym sposobem na zapewnienie, że będę mógł kontynuować pracę nad aplikacjami dla Sailfish. Każda kwota jest mile widziana, czy to filiżanka kawy, kawałek pizzy, czy więcej.</translation>
     </message>
 </context>
 <context>
@@ -118,12 +118,12 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="40"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cześć!</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="51"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziękuję za korzystanie z mojej małej aplikacji! Może mógłbyś się odwdzięczyć?</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="62"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pytaj ponownie</translation>
     </message>
 </context>
 </TS>

@@ -105,7 +105,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Copiato negli appunti %1</translation>
+        <translation>Copiato negli appunti: %1</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>

@@ -47,7 +47,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
         <source>Develop on Github</source>
-        <translation>Desarrollar en Github</translation>
+        <translation>Desarrollar en GitHub</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="153"/>
         <source>Don&apos;t ask me again</source>
-        <translation>No me lo vuelvas a preguntar</translation>
+        <translation>No volver a preguntar</translation>
     </message>
 </context>
 </TS>

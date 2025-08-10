@@ -110,7 +110,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή στο πρόχειρο</translation>
     </message>
 </context>
 <context>
@@ -133,7 +133,7 @@
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="148"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπενθύμιση αργότερα</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="153"/>

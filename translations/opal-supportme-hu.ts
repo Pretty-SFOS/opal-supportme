@@ -32,12 +32,12 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="13"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Fizess egy csésze kávé, egy pizzaszelet, vagy egy színházjegy árát.</translation>
+        <translation>Fizessd egy csésze kávé, egy szelet pizza, vagy egy színházjegy árát.</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="16"/>
         <source>Translate on Weblate</source>
-        <translation>Fordítás a Weblate-en</translation>
+        <translation>Fordítás Weblate-en</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="17"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
         <source>Develop on Github</source>
-        <translation>Fejlesztés a GitHubon</translation>
+        <translation>Fejlesztés a Github-on</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
