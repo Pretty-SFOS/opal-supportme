@@ -86,34 +86,6 @@
     </message>
 </context>
 <context>
-    <name>Opal.LinkHandler</name>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="27"/>
-        <source>External Link</source>
-        <translation>Ulkoinen linkki</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="59"/>
-        <source>Open in browser</source>
-        <translation>Avaa selaimessa</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
-        <source>Open externally</source>
-        <translation>Avaa ulkoisessa sovelluksessa</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="70"/>
-        <source>Copied to clipboard: %1</source>
-        <translation>Kopioitu leikepöydälle: %1</translation>
-    </message>
-    <message>
-        <location filename="../Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="79"/>
-        <source>Copy to clipboard</source>
-        <translation>Kopioi leikepöydälle</translation>
-    </message>
-</context>
-<context>
     <name>SupportDialog</name>
     <message>
         <location filename="../Opal/SupportMe/SupportDialog.qml" line="40"/>
