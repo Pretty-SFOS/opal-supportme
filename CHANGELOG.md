@@ -5,6 +5,22 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 # Changelog
 
+## 2.0.0 (2025-08-10)
+
+- Replaced the bundled external link handler with a new dependency on the
+  [Opal.LinkHandler](https://github.com/Pretty-SFOS/opal-linkhandler) module.
+  This is a drop-in replacement: simply install the link handler module and you
+  are good to go. No QML changes are needed.
+
+- Updated translations with contents from apps using this module.
+  I tried my best to always keep the most up-to-date version of all strings.
+  Hopefully nothing was overwritten - I apologize for any lost work!
+
+**Migrating to version 2.0.0:**
+
+- Install the [Opal.LinkHandler](https://github.com/Pretty-SFOS/opal-linkhandler) module
+  ([latest release](https://github.com/Pretty-SFOS/opal-linkhandler/releases/latest)).
+
 ## 1.3.1 (2025-08-08)
 
 - Added translations: Persian
