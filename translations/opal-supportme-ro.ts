@@ -6,7 +6,7 @@
     <message>
         <location filename="../Opal/SupportMe/AskForSupport.qml" line="181"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Gindeste putin daca poti contribui la acest proiect intr-un fel sau altul.</translation>
+        <translation>Vă rugăm să vă gândiți dacă puteți contribui la acest proiect într-un fel sau altul.</translation>
     </message>
 </context>
 <context>
