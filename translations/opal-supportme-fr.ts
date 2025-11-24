@@ -14,12 +14,12 @@
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="209"/>
         <source>show less</source>
-        <translation>réduire</translation>
+        <translation>montrer moins</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/DetailsDrawer.qml" line="210"/>
         <source>show more</source>
-        <translation>voir plus</translation>
+        <translation>montrer plus</translation>
     </message>
 </context>
 <context>
