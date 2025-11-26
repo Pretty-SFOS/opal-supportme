@@ -5,6 +5,11 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 # Changelog
 
+## 2.0.1 (2025-11-26)
+
+- Added translations: Bengali, Chinese (Traditional Han script), Hindi, Malayalam, Thai
+- Updated translations: Finnish, French, Romanian
+
 ## 2.0.0 (2025-08-10)
 
 - Replaced the bundled external link handler with a new dependency on the
