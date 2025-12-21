@@ -90,11 +90,6 @@ import Nemo.Configuration 1.0
             title: qsTr("Why donate?")
 
             DetailsParagraph {
-                text: qsTr("Jolla raised prices and is trying to force " +
-                           "developers (who work for free) to pay rent for Sailfish.")
-            }
-
-            DetailsParagraph {
                 text: qsTr("If you can afford it, donating is the easiest way " +
                            "to ensure that I can continue working on apps " +
                            "for Sailfish. Any amount is appreciated, be it a cup " +

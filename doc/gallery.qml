@@ -1,7 +1,7 @@
 /*
  * This file is part of harbour-opal.
  * SPDX-License-Identifier: GPL-3.0-or-later
- * SPDX-FileCopyrightText: 2024 Mirian Margiani
+ * SPDX-FileCopyrightText: 2024-2025 Mirian Margiani
  */
 
 import QtQuick 2.0
@@ -54,11 +54,6 @@ M.SupportDialog {
 
     M.DetailsDrawer {
         title: qsTr("Why donate?")
-
-        M.DetailsParagraph {
-            text: qsTr("Jolla raised prices and is trying to force " +
-                       "developers (who work for free) to pay rent for Sailfish.")
-        }
 
         M.DetailsParagraph {
             text: qsTr("If you can afford it, donating is the easiest way " +
