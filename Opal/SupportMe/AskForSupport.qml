@@ -1,6 +1,6 @@
 //@ This file is part of opal-supportme.
 //@ https://github.com/Pretty-SFOS/opal-supportme
-//@ SPDX-FileCopyrightText: 2024 Mirian Margiani
+//@ SPDX-FileCopyrightText: 2024-2025 Mirian Margiani
 //@ SPDX-License-Identifier: GPL-3.0-or-later
 
 import QtQuick 2.0
@@ -45,7 +45,7 @@ import Nemo.Configuration 1.0
     SupportDialog {
         SupportAction {
             icon: SupportIcon.Liberapay
-            title: qsTr("Donate on Liberapay")
+            title: qsTr("Donate on %1").arg("Liberapay")
             description: qsTr("Pay the amount of a cup of coffee, a slice " +
                               "of pizza, or a ticket to the theater.")
             link: "https://liberapay.com/ichthyosaurus"
@@ -53,7 +53,7 @@ import Nemo.Configuration 1.0
 
         SupportAction {
             icon: SupportIcon.Weblate
-            title: qsTr("Translate on Weblate")
+            title: qsTr("Translate on %1").arg("Weblate")
             description: qsTr("Help with translating this app in as many " +
                               "languages as possible.")
             link: "https://hosted.weblate.org/projects/opal"
@@ -61,7 +61,7 @@ import Nemo.Configuration 1.0
 
         SupportAction {
             icon: SupportIcon.Git
-            title: qsTr("Develop on Github")
+            title: qsTr("Develop on %1").arg("GitHub")
             description: qsTr("Support with maintenance and packaging, " +
                               "write code, or provide valuable bug reports.")
             link: "https://github.com/Pretty-SFOS/opal"

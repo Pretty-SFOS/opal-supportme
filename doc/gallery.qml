@@ -11,7 +11,7 @@ import Opal.SupportMe 1.0 as M
 M.SupportDialog {
     M.SupportAction {
         icon: M.SupportIcon.Liberapay
-        title: qsTr("Donate on Liberapay")
+        title: qsTr("Donate on %1").arg("Liberapay")
         description: qsTr("Pay the amount of a cup of coffee, a slice " +
                           "of pizza, or a ticket to the theater.")
         link: "https://liberapay.com/ichthyosaurus"
@@ -19,7 +19,7 @@ M.SupportDialog {
 
     M.SupportAction {
         icon: M.SupportIcon.Weblate
-        title: qsTr("Translate on Weblate")
+        title: qsTr("Translate on %1").arg("Weblate")
         description: qsTr("Help with translating this app in as many " +
                           "languages as possible.")
         link: "https://hosted.weblate.org/projects/opal"
@@ -27,7 +27,7 @@ M.SupportDialog {
 
     M.SupportAction {
         icon: M.SupportIcon.Git
-        title: qsTr("Develop on Github")
+        title: qsTr("Develop on %1").arg("GitHub")
         description: qsTr("Support with maintenance and packaging, " +
                           "write code, or provide valuable bug reports.")
         link: "https://github.com/Pretty-SFOS/opal"

@@ -1,6 +1,6 @@
 //@ This file is part of opal-supportme.
 //@ https://github.com/Pretty-SFOS/opal-supportme
-//@ SPDX-FileCopyrightText: 2021-2024 Mirian Margiani
+//@ SPDX-FileCopyrightText: 2021-2025 Mirian Margiani
 //@ SPDX-License-Identifier: GPL-3.0-or-later
 
 import QtQuick 2.0
@@ -9,15 +9,15 @@ import QtQuick 2.0
 //@ Do not include this file in qmldir. This file may contain invalid QML.
 Item {
     // commonly used strings
-    readonly property string k: qsTranslate("MySupportDialog", "Donate on Liberapay")
+    readonly property string k: qsTranslate("MySupportDialog", "Donate on %1").arg("Liberapay")
     readonly property string l: qsTranslate("MySupportDialog",
         "Pay the amount of a cup of coffee, a slice " +
         "of pizza, or a ticket to the theater.")
-    readonly property string m: qsTranslate("MySupportDialog", "Translate on Weblate")
+    readonly property string m: qsTranslate("MySupportDialog", "Translate on %1").arg("Weblate")
     readonly property string n: qsTranslate("MySupportDialog",
         "Help with translating this app in as many " +
         "languages as possible.")
-    readonly property string b: qsTranslate("MySupportDialog", "Develop on Github")
+    readonly property string b: qsTranslate("MySupportDialog", "Develop on %1").arg("GitHub")
     readonly property string c: qsTranslate("MySupportDialog",
         "Support with maintenance and packaging, " +
         "write code, or provide valuable bug reports.")
