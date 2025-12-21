@@ -26,7 +26,7 @@
     <name>MySupportDialog</name>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="12"/>
-        <source>Donate on Liberapay</source>
+        <source>Donate on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="16"/>
-        <source>Translate on Weblate</source>
+        <source>Translate on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -46,7 +46,7 @@
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
-        <source>Develop on Github</source>
+        <source>Develop on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

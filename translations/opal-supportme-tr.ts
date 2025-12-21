@@ -26,8 +26,8 @@
     <name>MySupportDialog</name>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="12"/>
-        <source>Donate on Liberapay</source>
-        <translation>Liberapay üzerinden bağış yap</translation>
+        <source>Donate on %1</source>
+        <translation>%1 üzerinden bağış yap</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="13"/>
@@ -36,8 +36,8 @@
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="16"/>
-        <source>Translate on Weblate</source>
-        <translation>Weblate&apos;te çevir</translation>
+        <source>Translate on %1</source>
+        <translation>%1&apos;te çevir</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="17"/>
@@ -46,8 +46,8 @@
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="20"/>
-        <source>Develop on Github</source>
-        <translation>Github&apos;da geliştirin</translation>
+        <source>Develop on %1</source>
+        <translation>%1&apos;da geliştirin</translation>
     </message>
     <message>
         <location filename="../Opal/SupportMe/private/ExtraTranslations.qml" line="21"/>
