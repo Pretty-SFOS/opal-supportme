@@ -60,7 +60,7 @@ import Nemo.Configuration 1.0
 
         SupportAction {
             icon: SupportIcon.Git
-            title: qsTr("Develop on %1").arg("GitHub")
+            title: qsTr("Develop on %1").arg("Codeberg")
             description: qsTr("Support with maintenance and packaging, " +
                               "write code, or provide valuable bug reports.")
             link: "https://git.example.org/example"
