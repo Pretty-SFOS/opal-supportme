@@ -39,7 +39,6 @@ import Nemo.Configuration 1.0
 
     // file: MySupportDialog.qml
     import QtQuick 2.0
-    import Sailfish.Silica 1.0
     import Opal.SupportMe 1.0
 
     SupportDialog {
