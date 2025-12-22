@@ -4,7 +4,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../Opal/SupportMe/AskForSupport.qml" line="181"/>
+        <location filename="../Opal/SupportMe/AskForSupport.qml" line="175"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>您可以花点时间考虑一下您是否可以为这个项目做出贡献。</translation>
     </message>
