@@ -1,9 +1,19 @@
 <!--
-SPDX-FileCopyrightText: 2024 Mirian Margiani
+SPDX-FileCopyrightText: 2024-2025 Mirian Margiani
 SPDX-License-Identifier: GFDL-1.3-or-later
 -->
 
 # Changelog
+
+## 2.1.0 (2025-12-22)
+
+- Updated packaging to make it easier to integrate this module in apps
+- Fixed service names being part of translated strings. Now you can use provided
+  translations with any service, e.g. "Develop on Codeberg" instead of "Develop on GitHub".
+- Removed mentions of GitHub because it is a platform to be avoided for ethical reasons
+- Removed note about forced Sailfish subscription from all examples, as Jolla changed course
+- Fixed translations file names to be the same across all modules
+- Simplified and improved all examples
 
 ## 2.0.1 (2025-11-26)
 
