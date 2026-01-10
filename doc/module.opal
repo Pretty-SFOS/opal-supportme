@@ -11,7 +11,7 @@
 #
 
 # current semantic version number, cf. https://semver.org
-version: 2.1.1
+version: 2.1.2
 
 # plain name as used in the module repository URL, will be prefixed with "opal-"
 # where necessary
@@ -32,7 +32,7 @@ description: A dialog asking for contributions that is shown when a user has use
 
 # attribution string for the whole module, in the same form as a SPDX
 # FileCopyrightText entry.
-attribution: 2024-2025 Mirian Margiani
+attribution: 2024-2026 Mirian Margiani
 
 # colon-separated list of this module's current maintainer(s)
 maintainers: Mirian Margiani
