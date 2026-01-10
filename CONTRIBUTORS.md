@@ -11,14 +11,8 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 
 ## Translations
 
-### English
-
+- Đặng Hoàng Ân
+- Frank Paul Silye
+- Om Era
 - Mirian Margiani
-
-### German
-
-- Mirian Margiani
-
-### Swedish
-
 - eson57
